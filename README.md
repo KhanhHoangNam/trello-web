@@ -1,4 +1,3 @@
-### Bộ code base để bắt đầu học khóa MERN Stack Pro (HỌC PHẦN FRONT-END: REACTJS - MATERIAL UI - REDUX...vv) - Lập Trình qua dự án thực tế Trello Clone trên YouTube của mình nhé các bạn!
 
 ### Requirements - Thông tin của bộ Code Base này - Chuẩn các phiên bản dưới đây để bắt đầu học: (Semantic Versioning)
 
